@@ -5,24 +5,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Master of Business Analytics
+    institution: Monash University
+    year: 2022
+  - course: Bachelor of Engineering - Computer Science
+    institution: DSATM
+    year: 2019
+email: "rmys0001@student.monash.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Business Analytics
+- Data Wrangling
+- Data Visualization
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +34,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Rahul Bharadwaj
 user_groups:
 - Researchers
 - Visitors
